@@ -174,8 +174,27 @@ REG NO:212222100029
 </html>
 ```
 
-## Output:
+## Client Output:
+## map
+![map1](https://user-images.githubusercontent.com/120230694/234084676-be544ceb-1fb7-48ee-96b5-1e7cae4d21d3.jpeg)
 
+## sec
+![secout](https://user-images.githubusercontent.com/120230694/234084911-ecaa06c8-fc01-4194-96c3-6d4724d0e041.png)
+
+## sse
+![sseout](https://user-images.githubusercontent.com/120230694/234085048-88a687c5-f3d3-46be-a890-4b771a999798.png)
+
+## simats
+![simatsout](https://user-images.githubusercontent.com/120230694/234085217-6038215a-fca5-425f-92c3-1d5649194ff1.png)
+
+## scon
+![sconout](https://user-images.githubusercontent.com/120230694/234085402-2567d0b0-f8e0-4383-bf9c-8f5d82d96553.png)
+
+## sca
+![scaout](https://user-images.githubusercontent.com/120230694/234085529-1a1a9076-66f6-46a1-bfd3-8362460487e8.png)
+
+## Server Output
+![Screenshot (77)](https://user-images.githubusercontent.com/120230694/234085977-e66332e7-e72a-47ba-9219-ea03cd479073.png)
 
 ## Result:
 Hence a website has been developed to display details about the colleges around saveetha university.
