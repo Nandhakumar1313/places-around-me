@@ -174,6 +174,8 @@ REG NO:212222100029
 </html>
 ```
 
+## Output:
+
 ## Client Output:
 ## map
 ![map1](https://user-images.githubusercontent.com/120230694/234084676-be544ceb-1fb7-48ee-96b5-1e7cae4d21d3.jpeg)
@@ -193,7 +195,7 @@ REG NO:212222100029
 ## sca
 ![scaout](https://user-images.githubusercontent.com/120230694/234085529-1a1a9076-66f6-46a1-bfd3-8362460487e8.png)
 
-## Server Output
+## Server Output:
 ![Screenshot (77)](https://user-images.githubusercontent.com/120230694/234085977-e66332e7-e72a-47ba-9219-ea03cd479073.png)
 
 ## Result:
