@@ -198,5 +198,10 @@ REG NO:212222100029
 ## Server Output:
 ![Screenshot (77)](https://user-images.githubusercontent.com/120230694/234085977-e66332e7-e72a-47ba-9219-ea03cd479073.png)
 
+##  Html Validator Output:
+![Screenshot (78)](https://user-images.githubusercontent.com/120230694/234469460-ee701091-9aed-44e4-bde3-85c13c6255fa.png)
+l 
+
+
 ## Result:
 Hence a website has been developed to display details about the colleges around saveetha university.
