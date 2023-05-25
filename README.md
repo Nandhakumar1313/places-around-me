@@ -178,8 +178,7 @@ REG NO:212222100029
 
 ## Client Output:
 ## map
-![map1](https://user-images.githubusercontent.com/120230694/234084676-be544ceb-1fb7-48ee-96b5-1e7cae4d21d3.jpeg)
-
+![Screenshot (110)](https://github.com/Nandhakumar1313/places-around-me/assets/120230694/ca13cb40-eb7b-4d81-ad08-ed065a050edc)
 ## sec
 ![secout](https://user-images.githubusercontent.com/120230694/234084911-ecaa06c8-fc01-4194-96c3-6d4724d0e041.png)
 
